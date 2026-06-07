@@ -7,7 +7,7 @@ resources:
 namespace: study-tracker
 namePrefix: dev-
 images:
-  - name: study-tracker-api
-    newTag: dev
-  - name: study-tracker-web
-    newTag: dev
+  - name: ghcr.io/ramoncollazo/study-tracker-api
+    newTag: v0.3.2
+  - name: ghcr.io/ramoncollazo/study-tracker-web
+    newTag: v0.2.1

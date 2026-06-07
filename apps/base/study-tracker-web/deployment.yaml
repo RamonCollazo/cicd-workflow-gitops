@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: study-tracker-web
-          image: study-tracker-web:latest
+          image: ghcr.io/ramoncollazo/study-tracker-web:latest
           ports:
             - containerPort: 3000
           env:
