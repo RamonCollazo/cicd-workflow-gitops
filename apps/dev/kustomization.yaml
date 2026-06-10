@@ -11,4 +11,5 @@ images:
   newName: ghcr.io/ramoncollazo/study-tracker-api
   newTag: v0.3.2
 - name: ghcr.io/ramoncollazo/study-tracker-web
-  newTag: v0.2.1
+  newName: ghcr.io/ramoncollazo/study-tracker-web
+  newTag: v0.2.2
