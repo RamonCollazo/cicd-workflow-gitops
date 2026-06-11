@@ -12,4 +12,4 @@ images:
   newTag: v0.3.4
 - name: ghcr.io/ramoncollazo/study-tracker-web
   newName: ghcr.io/ramoncollazo/study-tracker-web
-  newTag: v0.2.2
+  newTag: v0.2.3
